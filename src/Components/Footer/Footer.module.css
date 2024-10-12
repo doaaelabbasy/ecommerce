@@ -1,0 +1,25 @@
+.footer{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+width: 239px;
+height: 24px;
+top: 443px;
+left: 102.01px;
+gap: 0px;
+opacity: 0px;
+
+}
+.line{
+    width: 1240.01px;
+height: 0px;
+top: 408px;
+left: 100px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+rotate: -0 deg;
+border: 1px solid #D9D9D9
+}

@@ -1,0 +1,75 @@
+.button-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .line{
+    position: absolute;
+    width: 605.01px;
+height: 0px;
+top: 800px;
+left: 500px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #D9D9D9
+  }
+  .font{
+    position: absolute;
+    width: 150px;
+    height: 24px;
+    top: 800px;
+    left: 500px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: px;
+    font-weight: 400px;
+    line-height: 70px;
+    text-align: left;
+color: #9F9F9F;        
+  }
+  .share{
+    position: absolute;
+    width: 47px;
+height: 24px;
+top: 1100px;
+left: 500px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #9F9F9F;
+
+  }
+  .awesome {
+    display: inline-block;
+    position: absolute;
+    width: 20px;
+height: 20px;
+top: 1100px;
+left: 550px;
+gap: 0px;
+opacity: 0px;
+
+  }
+  .arika{
+    width: 550px;
+    height: 450px;
+    top: 1200 px;
+    left: -28px;
+    gap: 0px;
+    opacity: 0px;
+    
+  }
+  .arika2{
+    width: 550px;
+height: 450px;
+top: 1200px;
+left: 716px;
+gap: 0px;
+opacity: 0px;
+
+  }

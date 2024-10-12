@@ -1,0 +1,38 @@
+.contactlogo{
+    width: 77px;
+height: 77px;
+top: 161px;
+left: 682px;
+gap: 0px;
+opacity: 0px;
+
+}
+.checkout{
+    width: 1440px;
+height: 316px;
+top: 100px;
+gap: 0px;
+opacity: 0px;
+backdrop-filter: blur(6px);
+opacity: 50%;
+}
+.content{
+    position: absolute;
+top: 15%;
+   margin-left: 45%;
+  
+}
+.p{
+    width: 196px;
+height: 72px;
+top: 222px;
+left: 500px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 500;
+line-height: 72px;
+text-align: left;
+color: #000000;
+}

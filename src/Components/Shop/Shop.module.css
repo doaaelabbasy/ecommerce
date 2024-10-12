@@ -1,0 +1,35 @@
+.content{
+    position: absolute;
+top: 15%;
+   margin-left: 45%;
+  
+}
+.shop{
+    width: 1440px;
+height: 316px;
+top: 100px;
+gap: 0px;
+opacity: 50%;
+backdrop-filter: blur(6px)
+
+}
+.p{
+    width: 196px;
+height: 72px;
+top: 222px;
+left: 622px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 500;
+line-height: 72px;
+text-align: left;
+color: #000000;
+}
+.toolbar{
+    display: flex;
+    justify-content: space-between;
+    font-family: poppins;
+
+}
